@@ -75,7 +75,7 @@
   - Antwort: *Parce que je suis triste.* (Weil ich traurig bin.)
 - **comment**: Wie?
   - Beispiel: *Comment ça va?* (Wie geht es dir?)
-  - Antwort: *Ça va bien| merci.* (Mir geht es gut| danke.)
+  - Antwort: *Ça va bien, merci.* (Mir geht es gut, danke.)
 - **combien**: Wie viel/e?
   - Beispiel: *Combien ça coûte?* (Wie viel kostet das?)
   - Antwort: *Ça coûte dix euros.* (Es kostet zehn Euro.)
@@ -147,8 +147,8 @@
 
 ### Hinweise zur Konjugation
 
-- **Regelmäßige Verben auf -er** (z.B. **parler**| **aimer**):
-  - Endungen im Präsens: **-e**| **-es**| **-e**| **-ons**| **-ez**| **-ent**.
+- **Regelmäßige Verben auf -er** (z.B. **parler**, **aimer**):
+  - Endungen im Präsens: **-e**, **-es**, **-e**, **-ons**, **-ez**, **-ent**.
   - Beispiel: **parler** (sprechen)
     - Je parle
     - Tu parles
@@ -158,7 +158,7 @@
     - Ils/Elles parlent
 
 - **Regelmäßige Verben auf -ir** (z.B. **finir**):
-  - Endungen im Präsens: **-is**| **-is**| **-it**| **-issons**| **-issez**| **-issent**.
+  - Endungen im Präsens: **-is**, **-is**, **-it**, **-issons**, **-issez**, **-issent**.
   - Beispiel: **finir** (beenden)
     - Je finis
     - Tu finis
@@ -168,7 +168,7 @@
     - Ils/Elles finissent
 
 - **Regelmäßige Verben auf -re** (z.B. **attendre**):
-  - Endungen im Präsens: **-s**| **-s**| **-**| **-ons**| **-ez**| **-ent**.
+  - Endungen im Präsens: **-s**, **-s**, **-**, **-ons**, **-ez**, **-ent**.
   - Beispiel: **attendre** (warten)
     - Je attends
     - Tu attends
@@ -461,10 +461,10 @@
 
 ### Hinweise zur Verwendung der Präpositionen
 
-- **À** wird verwendet| um einen Ort oder eine Richtung anzugeben.
+- **À** wird verwendet, um einen Ort oder eine Richtung anzugeben.
   - *Beispiel:* **Je vais à l'école.** *(Ich gehe zur Schule.)*
 
-- **De** zeigt Besitz| Herkunft oder Ausgangspunkt an.
+- **De** zeigt Besitz, Herkunft oder Ausgangspunkt an.
   - *Beispiel:* **La maison de Pierre.** *(Pierres Haus.)*
 
 - **Avec** bedeutet "mit" und zeigt Begleitung oder Mittel an.
@@ -474,7 +474,7 @@
   - *Beispiel:* **Je bois du café sans sucre.** *(Ich trinke Kaffee ohne Zucker.)*
 
 - **Pour** drückt Zweck oder Bestimmung aus.
-  - *Beispiel:* **Je travaille pour gagner de l'argent.** *(Ich arbeite| um Geld zu verdienen.)*
+  - *Beispiel:* **Je travaille pour gagner de l'argent.** *(Ich arbeite, um Geld zu verdienen.)*
 
 - **Sur** bedeutet "auf" oder "über".
   - *Beispiel:* **Il y a un livre sur la table.** *(Es liegt ein Buch auf dem Tisch.)*
@@ -504,7 +504,7 @@
   - *Beispiel:* **Elle habite ici depuis cinq ans.** *(Sie wohnt hier seit fünf Jahren.)*
 
 - **Pendant** bedeutet "während".
-  - *Beispiel:* **Pendant le week-end| je me repose.** *(Während des Wochenendes ruhe ich mich aus.)*
+  - *Beispiel:* **Pendant le week-end, je me repose.** *(Während des Wochenendes ruhe ich mich aus.)*
 
 - **Avant** bedeutet "vor" (zeitlich).
   - *Beispiel:* **Je me douche avant le petit déjeuner.** *(Ich dusche vor dem Frühstück.)*
@@ -515,7 +515,7 @@
 - **Par** bedeutet "durch" oder "von" und wird oft im Passiv verwendet.
   - *Beispiel:* **La lettre est envoyée par Paul.** *(Der Brief wurde von Paul geschickt.)*
 
-- **En** kann "in" oder "im" bedeuten| wird aber auch für Verkehrsmittel verwendet.
+- **En** kann "in" oder "im" bedeuten, wird aber auch für Verkehrsmittel verwendet.
   - *Beispiel:* **Je vais au travail en bus.** *(Ich fahre mit dem Bus zur Arbeit.)*
 
 - **Jusqu'à** bedeutet "bis".
@@ -569,14 +569,14 @@
 
 ### Hinweise zur Verwendung der Adjektive
 
-- **Geschlecht und Zahl**: Französische Adjektive passen sich in Geschlecht (maskulin/feminin) und Zahl (Singular/Plural) dem Substantiv an| auf das sie sich beziehen.
+- **Geschlecht und Zahl**: Französische Adjektive passen sich in Geschlecht (maskulin/feminin) und Zahl (Singular/Plural) dem Substantiv an, auf das sie sich beziehen.
 
   - **Maskulin Singular**: **Un grand homme** *(Ein großer Mann)*
   - **Feminin Singular**: **Une grande femme** *(Eine große Frau)*
   - **Maskulin Plural**: **Des grands hommes** *(Große Männer)*
   - **Feminin Plural**: **Des grandes femmes** *(Große Frauen)*
 
-- **Stellung des Adjektivs**: Einige häufige Adjektive stehen im Französischen vor dem Substantiv (z.B. **petit**| **grand**| **beau**)| die meisten jedoch dahinter.
+- **Stellung des Adjektivs**: Einige häufige Adjektive stehen im Französischen vor dem Substantiv (z.B. **petit**, **grand**, **beau**), die meisten jedoch dahinter.
 
   - **Vor dem Substantiv**:
     - **Un petit chien** *(Ein kleiner Hund)*
@@ -588,15 +588,15 @@
 
 - **Besonderheiten bei der Bildung der femininen Form**:
 
-  - Adjektive| die im Maskulinum auf einen stummen Konsonanten enden| erhalten im Femininum ein zusätzliches **-e**.
+  - Adjektive, die im Maskulinum auf einen stummen Konsonanten enden, erhalten im Femininum ein zusätzliches **-e**.
     - **Petit** → **Petite**
     - **Grand** → **Grande**
 
-  - Adjektive| die im Maskulinum auf **-eux** enden| ändern sich zu **-euse** im Femininum.
+  - Adjektive, die im Maskulinum auf **-eux** enden, ändern sich zu **-euse** im Femininum.
     - **Heureux** → **Heureuse**
     - **Sérieux** → **Sérieuse**
 
-  - Adjektive| die im Maskulinum auf **-if** enden| ändern sich zu **-ive** im Femininum.
+  - Adjektive, die im Maskulinum auf **-if** enden, ändern sich zu **-ive** im Femininum.
     - **Actif** → **Active**
     - **Sportif** → **Sportive**
 
@@ -640,7 +640,7 @@
 |------------------------|------------------------|---------------------------------------|-------------------------------------|
 | **Toujours**           | Immer                  | Il est **toujours** en retard.        | Er ist **immer** zu spät.           |
 | **Souvent**            | Oft                    | Je vais **souvent** au cinéma.        | Ich gehe **oft** ins Kino.          |
-| **Parfois**            | Manchmal               | **Parfois**| je fais du sport.        | **Manchmal** treibe ich Sport.      |
+| **Parfois**            | Manchmal               | **Parfois**, je fais du sport.        | **Manchmal** treibe ich Sport.      |
 | **Rarement**           | Selten                 | Elle voyage **rarement**.             | Sie reist **selten**.               |
 | **Jamais**             | Nie                    | Il ne sourit **jamais**.              | Er lächelt **nie**.                 |
 | **Il y a**             | Es gibt                | **Il y a** un chat dans le jardin.    | **Es gibt** eine Katze im Garten.   |
@@ -655,55 +655,55 @@
 | **Encore**             | Noch                   | Je veux **encore** du pain.           | Ich möchte **noch** Brot.           |
 | **Presque**            | Fast                   | C'est **presque** fini.               | Es ist **fast** fertig.             |
 | **Peut-être**          | Vielleicht             | **Peut-être** demain.                 | **Vielleicht** morgen.              |
-| **Bien sûr**           | Natürlich / Selbstverständlich | **Bien sûr**| je t'aide.    | **Natürlich** helfe ich dir.        |
-| **D'accord**           | Einverstanden / Okay   | **D'accord**| allons-y.               | **Einverstanden**| gehen wir.       |
-| **Pardon**             | Entschuldigung         | **Pardon**| où est la gare ?          | **Entschuldigung**| wo ist der Bahnhof? |
-| **Excusez-moi**        | Entschuldigen Sie      | **Excusez-moi**| je suis en retard.   | **Entschuldigen Sie**| ich bin zu spät. |
-| **S'il vous plaît**    | Bitte (formell)        | Un café| **s'il vous plaît**.         | Einen Kaffee| **bitte**.            |
+| **Bien sûr**           | Natürlich / Selbstverständlich | **Bien sûr** je t'aide.    | **Natürlich** helfe ich dir.        |
+| **D'accord**           | Einverstanden / Okay   | **D'accord**, allons-y.               | **Einverstanden**, gehen wir.       |
+| **Pardon**             | Entschuldigung         | **Pardon**, où est la gare ?          | **Entschuldigung**, wo ist der Bahnhof? |
+| **Excusez-moi**        | Entschuldigen Sie      | **Excusez-moi**, je suis en retard.   | **Entschuldigen Sie**, ich bin zu spät. |
+| **S'il vous plaît**    | Bitte (formell)        | Un café, **s'il vous plaît**.         | Einen Kaffee, **bitte**.            |
 | **Merci beaucoup**     | Vielen Dank            | **Merci beaucoup** pour votre aide.   | **Vielen Dank** für Ihre Hilfe.     |
-| **De rien**            | Gern geschehen         | **De rien**| c'est normal.            | **Gern geschehen**| das ist selbstverständlich. |
+| **De rien**            | Gern geschehen         | **De rien**, c'est normal.            | **Gern geschehen**, das ist selbstverständlich. |
 | **Au secours !**       | Hilfe!                 | **Au secours !** Je ne sais pas nager. | **Hilfe!** Ich kann nicht schwimmen. |
 | **Attention !**        | Achtung!               | **Attention !** C'est dangereux.      | **Achtung!** Das ist gefährlich.    |
 | **C'est combien ?**    | Wie viel kostet das?   | **C'est combien** cette robe ?        | **Wie viel kostet** dieses Kleid?   |
-| **Je ne sais pas**     | Ich weiß nicht         | **Je ne sais pas** où il est.         | **Ich weiß nicht**| wo er ist.      |
+| **Je ne sais pas**     | Ich weiß nicht         | **Je ne sais pas** où il est.         | **Ich weiß nicht**, wo er ist.      |
 | **Je comprends**       | Ich verstehe           | **Je comprends** le problème.         | **Ich verstehe** das Problem.       |
 | **Je ne comprends pas**| Ich verstehe nicht     | **Je ne comprends pas** cette phrase. | **Ich verstehe** diesen Satz **nicht**. |
 
 ### Beispiele und Hinweise
 
-- **Zeitadverbien** wie **toujours**| **souvent**| **parfois**| **rarement**| **jamais** geben an| wie oft etwas passiert.
+- **Zeitadverbien** wie **toujours**, **souvent**, **parfois**, **rarement**, **jamais** geben an, wie oft etwas passiert.
   - *Beispiel:* **Je lis **souvent** des livres.** *(Ich lese **oft** Bücher.)*
 
-- **Negation mit "ne ... pas"**: Um Verneinungen zu bilden| verwendet man **ne ... pas**.
+- **Negation mit "ne ... pas"**: Um Verneinungen zu bilden, verwendet man **ne ... pas**.
   - *Beispiel:* **Je ne fume pas.** *(Ich rauche nicht.)*
 
-- **"Il y a"** bedeutet "es gibt" und wird verwendet| um die Existenz von etwas auszudrücken.
+- **"Il y a"** bedeutet "es gibt" und wird verwendet,| um die Existenz von etwas auszudrücken.
   - *Beispiel:* **Il y a un parc près d'ici.** *(Es gibt einen Park in der Nähe.)*
 
 - **"Il n'y a pas"** ist die Verneinung von "il y a".
   - *Beispiel:* **Il n'y a pas de pain.** *(Es gibt kein Brot.)*
 
-- **Höflichkeitsfloskeln** wie **s'il vous plaît**| **merci**| **excusez-moi** sind wichtig für die alltägliche Kommunikation.
+- **Höflichkeitsfloskeln** wie **s'il vous plaît**, **merci**, **excusez-moi** sind wichtig für die alltägliche Kommunikation.
 
 - **Ausdrücke des Einverständnisses**:
-  - **D'accord**: Wird verwendet| um Zustimmung auszudrücken.
+  - **D'accord**: Wird verwendet, um Zustimmung auszudrücken.
     - *Beispiel:* **Tu viens avec nous ?** – **D'accord.** *(Kommst du mit uns? – Einverstanden.)*
   - **Bien sûr**: Drückt Selbstverständlichkeit aus.
     - *Beispiel:* **Tu peux m'aider ?** – **Bien sûr !** *(Kannst du mir helfen? – Natürlich!)*
 
 - **Ausdrücke der Unsicherheit oder Möglichkeit**:
-  - **Peut-être**: Wird verwendet| um Unsicherheit oder Möglichkeit auszudrücken.
+  - **Peut-être**: Wird verwendet, um Unsicherheit oder Möglichkeit auszudrücken.
     - *Beispiel:* **Peut-être qu'il va pleuvoir.** *(Vielleicht wird es regnen.)*
 
 - **Quantitätsadverbien**:
-  - **Plus** (mehr)| **moins** (weniger)| **trop** (zu viel)| **assez** (genug).
+  - **Plus** (mehr), **moins** (weniger), **trop** (zu viel), **assez** (genug).
     - *Beispiel:* **Je voudrais plus de café.** *(Ich möchte mehr Kaffee.)*
     - *Beispiel:* **Il y a trop de bruit ici.** *(Es ist zu laut hier.)*
 
 ### Weitere nützliche Ausdrücke
 
 - **Ça va ?** – *Wie geht's?*
-  - **Réponse:** **Ça va bien| merci.** – *Es geht gut| danke.*
+  - **Réponse:** **Ça va bien, merci.** – *Es geht gut, danke.*
 
 - **Qu'est-ce que c'est ?** – *Was ist das?*
   - **Réponse:** **C'est un stylo.** – *Das ist ein Stift.*
@@ -778,7 +778,7 @@
 - **Je ne parle pas français.**  
   Ich spreche kein Französisch.
 
-- **Pouvez-vous répéter| s'il vous plaît ?**  
+- **Pouvez-vous répéter, s'il vous plaît ?**  
   Können Sie das bitte wiederholen?
 
 - **Où sont les toilettes ?**  
@@ -806,7 +806,7 @@
   Es gibt kein Brot.
 
 - **Je ne sais jamais quoi dire.**  
-  Ich weiß nie| was ich sagen soll.
+  Ich weiß nie, was ich sagen soll.
 
 - **Il est toujours en retard.**  
   Er ist immer zu spät.
