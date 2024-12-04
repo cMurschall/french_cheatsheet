@@ -1,85 +1,102 @@
-# Wortschatz
+# Cheatsheet
+
+
+## Zahlen
+
+
+| Ziffer | Wort   | Ziffer | Wort             |
+| -------| -------| -------|------------------|
+| 0      | zéro   | 10     | dix              |
+| 1      | un     | 20     | vingt            |
+| 2      | deux   | 30     | trente           |
+| 3      | trois  | 40     | quarante         |
+| 4      | quatre | 50     | cinquante        |
+| 5      | cinq   | 60     | soixante         |
+| 6      | six    | 70     | soixante-dix     |
+| 7      | sept   | 80     | quatre-vingt     |
+| 8      | huit   | 90     | quatre-vingt-dix |
+| 9      | neuf   | 100    | cent             |
 
 ## Wochentage
 
-| Französisch  | Deutsch      |
-|--------------|--------------|
-| Lundi        | Montag       |
-| Mardi        | Dienstag     |
-| Mercredi     | Mittwoch     |
+| Französisch  | Deutsch      | Französisch  | Deutsch      |
+|--------------|--------------|--------------|--------------|
+| Lundi        | Montag       | Vendredi     | Freitag      |
+| Mardi        | Dienstag     | Samedi       | Samstag      |
+| Mercredi     | Mittwoch     | Dimanche     | Sonntag      |
 | Jeudi        | Donnerstag   |
-| Vendredi     | Freitag      |
-| Samedi       | Samstag      |
-| Dimanche     | Sonntag      |
+
 
 ## Monate
 
-| Französisch    | Deutsch    |
-|----------------|------------|
-| Janvier        | Januar     |
-| Février        | Februar    |
-| Mars           | März       |
-| Avril          | April      |
-| Mai            | Mai        |
-| Juin           | Juni       |
-| Juillet        | Juli       |
-| Août           | August     |
-| Septembre      | September  |
-| Octobre        | Oktober    |
-| Novembre       | November   |
-| Décembre       | Dezember   |
+| Französisch    | Deutsch    | Französisch    | Deutsch    |
+|----------------|------------|----------------|------------|
+| Janvier        | Januar     | Juillet        | Juli       |
+| Février        | Februar    | Août           | August     |
+| Mars           | März       | Septembre      | September  |
+| Avril          | April      | Octobre        | Oktober    |
+| Mai            | Mai        | Novembre       | November   |
+| Juin           | Juni       | Décembre       | Dezember   |
+
+
 
 ## Farben
 
-| Französisch  | Deutsch      |
-|--------------|--------------|
-| Rouge        | Rot          |
-| Bleu         | Blau         |
-| Vert         | Grün         |
-| Jaune        | Gelb         |
-| Noir         | Schwarz      |
+| Französisch  | Deutsch      | Französisch  | Deutsch      |
+|--------------|--------------|--------------|--------------|
+| Rouge        | Rot          | Gris         | Grau         |
+| Bleu         | Blau         | Orange       | Orange       |
+| Vert         | Grün         | Rose         | Rosa         |
+| Jaune        | Gelb         | Violet       | Lila         |
+| Noir         | Schwarz      | Marron       | Braun        |
 | Blanc        | Weiß         |
-| Gris         | Grau         |
-| Orange       | Orange       |
-| Rose         | Rosa         |
-| Violet       | Lila         |
-| Marron       | Braun        |
-
-## Fragewörter
-
-| **Französisch** | **Deutsch** | **Beispiel Frage**                 | **Beispielantwort**                               |
-|-----------------|-------------|------------------------------------|---------------------------------------------------|
-| **Qui**         | Wer         | **Qui est-ce ?** *(Wer ist das?)*  | C'est Pierre. *(Das ist Pierre.)*                 |
-| **Quoi**        | Was         | **Qu'est-ce que c'est ?** *(Was ist das?)* | Un livre. *(Ein Buch.)*                    |
-| **Où**          | Wo          | **Où es-tu ?** *(Wo bist du?)*     | À Paris. *(In Paris.)*                            |
-| **Quand**       | Wann        | **Quand est le rendez-vous ?** *(Wann ist das Treffen?)* | Demain. *(Morgen.)*            |
-| **Pourquoi**    | Warum       | **Pourquoi es-tu fatigué(e) ?** *(Warum bist du müde?)* | Parce que je suis fatigué(e). *(Weil ich müde bin.)* |
-| **Comment**     | Wie         | **Comment ça va ?** *(Wie geht es?)* | Très bien. *(Sehr gut.)*                        |
-| **Combien**     | Wie viel    | **Combien ça coûte ?** *(Wie viel kostet das?)* | Deux euros. *(Zwei Euro.)*           |
 
 
-### Hinweise zur Verwendung der Fragewörter
 
-- **Qui** wird für Personen verwendet.  
-  *Beispiel:* **Qui est ton professeur ?** *(Wer ist dein Lehrer?)*
 
-- **Quoi** wird für Dinge oder Handlungen verwendet, oft in Verbindung mit **que** zu **qu'est-ce que**.  
-  *Beispiel:* **Qu'est-ce que tu manges ?** *(Was isst du?)*
+## **Fragen bilden**
 
-- **Où** fragt nach einem Ort.  
-  *Beispiel:* **Où vas-tu ?** *(Wohin gehst du?)*
+### Mit Fragewort
 
-- **Quand** fragt nach der Zeit.  
-  *Beispiel:* **Quand est ton anniversaire ?** *(Wann hast du Geburtstag?)*
+- **qui**: Wer?
+  - Beispiel: *Qui est là?* (Wer ist da?)
+  - Antwort: *C'est Marie.* (Das ist Marie.)
+- **quoi**: Was?
+  - Beispiel: *Tu fais quoi?* (Was machst du?)
+  - Antwort: *Je fais mes devoirs.* (Ich mache meine Hausaufgaben.)
+- **où**: Wo?
+  - Beispiel: *Où habites-tu?* (Wo wohnst du?)
+  - Antwort: *J'habite à Paris.* (Ich wohne in Paris.)
+- **quand**: Wann?
+  - Beispiel: *Quand viens-tu?* (Wann kommst du?)
+  - Antwort: *Je viens demain.* (Ich komme morgen.)
+- **pourquoi**: Warum?
+  - Beispiel: *Pourquoi tu pleures?* (Warum weinst du?)
+  - Antwort: *Parce que je suis triste.* (Weil ich traurig bin.)
+- **comment**: Wie?
+  - Beispiel: *Comment ça va?* (Wie geht es dir?)
+  - Antwort: *Ça va bien, merci.* (Mir geht es gut, danke.)
+- **combien**: Wie viel/e?
+  - Beispiel: *Combien ça coûte?* (Wie viel kostet das?)
+  - Antwort: *Ça coûte dix euros.* (Es kostet zehn Euro.)
+- **quel/quelle**: Welcher?
+  - Beispiel: *Quelle heure est-il?* (Wie spät ist es?)
+  - Antwort: *Il est trois heures.* (Es ist drei Uhr.)
 
-- **Pourquoi** fragt nach dem Grund.  
-  *Beispiel:* **Pourquoi ris-tu ?** *(Warum lachst du?)*
+| Fragewort    | Bedeutung          | Beispiel                       |
+|--------------|--------------------|--------------------------------|
+| **qui**      | Wer?               | *Qui est là?* (Wer ist da?)   |
+| **quoi**     | Was?               | *Tu fais quoi?* (Was machst du?) |
+| **où**       | Wo?                | *Où habites-tu?* (Wo wohnst du?) |
+| **quand**    | Wann?              | *Quand viens-tu?* (Wann kommst du?) |
+| **pourquoi** | Warum?             | *Pourquoi tu pleures?* (Warum weinst du?)
 
-- **Comment** fragt nach der Art und Weise.  
-  *Beispiel:* **Comment vient-il ?** *(Wie kommt er?)*
+### Ohne Fragewort
 
-- **Combien** fragt nach der Menge oder Anzahl.  
-  *Beispiel:* **Combien de frères as-tu ?** *(Wie viele Brüder hast du?)*
+- **Inversionsfrage**: *Parles-tu français?* (Sprichst du Französisch?)
+- **Intonationsfrage**: *Tu parles français?* (Sprichst du Französisch?)
+
+---
 
 
 ## Häufige Verben
@@ -224,185 +241,186 @@
 
 ## Familie
 
-| Französisch         | Deutsch              |
-|---------------------|----------------------|
-| La famille          | Die Familie          |
-| Le père             | Der Vater            |
-| La mère             | Die Mutter           |
-| Le frère            | Der Bruder           |
-| La sœur             | Die Schwester        |
-| Le fils             | Der Sohn             |
-| La fille            | Die Tochter          |
-| Les parents         | Die Eltern           |
-| Le mari             | Der Ehemann          |
-| La femme            | Die Ehefrau          |
-| Le grand-père       | Der Großvater        |
-| La grand-mère       | Die Großmutter       |
-| L'oncle             | Der Onkel            |
-| La tante            | Die Tante            |
-| Le cousin           | Der Cousin           |
-| La cousine          | Die Cousine          |
-| Le neveu            | Der Neffe            |
-| La nièce            | Die Nichte           |
-| Les grands-parents  | Die Großeltern       |
-| Les petits-enfants  | Die Enkelkinder      |
+| Französisch         | Deutsch              | Französisch         | Deutsch              |
+|---------------------|----------------------|---------------------|----------------------|
+| La famille          | Die Familie          | Le grand-père       | Der Großvater        |
+| Le père             | Der Vater            | La grand-mère       | Die Großmutter       |
+| La mère             | Die Mutter           | L'oncle             | Der Onkel            |
+| Le frère            | Der Bruder           | La tante            | Die Tante            |
+| La sœur             | Die Schwester        | Le cousin           | Der Cousin           |
+| Le fils             | Der Sohn             | La cousine          | Die Cousine          |
+| La fille            | Die Tochter          | Le neveu            | Der Neffe            |
+| Les parents         | Die Eltern           | La nièce            | Die Nichte           |
+| Le mari             | Der Ehemann          | Les grands-parents  | Die Großeltern       |
+| La femme            | Die Ehefrau          | Les petits-enfants  | Die Enkelkinder      |
+
+
+
 
 ## Verkehr
 
-| Französisch          | Deutsch              |
-|----------------------|----------------------|
-| La voiture           | Das Auto             |
-| Le bus               | Der Bus              |
-| Le train             | Der Zug              |
-| Le métro             | Die U-Bahn           |
-| Le vélo              | Das Fahrrad          |
-| La moto              | Das Motorrad         |
-| L'avion              | Das Flugzeug         |
-| Le bateau            | Das Schiff           |
-| Le taxi              | Das Taxi             |
-| La gare              | Der Bahnhof          |
-| L'aéroport           | Der Flughafen        |
-| L'arrêt de bus       | Die Bushaltestelle   |
-| Le feu de signalisation | Die Ampel        |
-| La rue               | Die Straße           |
+| Französisch          | Deutsch              | Französisch          | Deutsch              |
+|----------------------|----------------------|----------------------|----------------------|
+| La voiture           | Das Auto             | Le bateau            | Das Schiff           |
+| Le bus               | Der Bus              | Le taxi              | Das Taxi             |
+| Le train             | Der Zug              | La gare              | Der Bahnhof          |
+| Le métro             | Die U-Bahn           | L'aéroport           | Der Flughafen        |
+| Le vélo              | Das Fahrrad          | L'arrêt de bus       | Die Bushaltestelle   |
+| La moto              | Das Motorrad         | Le feu de signalisation | Die Ampel        |
+| L'avion              | Das Flugzeug         | La rue               | Die Straße           |
 | L'autoroute          | Die Autobahn         |
 
 ## Kleidung
 
-| Französisch       | Deutsch           |
-|-------------------|-------------------|
-| La chemise        | Das Hemd          |
-| Le pantalon       | Die Hose          |
-| La jupe           | Der Rock          |
-| La robe           | Das Kleid         |
-| Les chaussures    | Die Schuhe        |
-| Les chaussettes   | Die Socken        |
-| Le manteau        | Der Mantel        |
-| La veste          | Die Jacke         |
-| Le chapeau        | Der Hut           |
-| Le t-shirt        | Das T-Shirt       |
-| Le pull           | Der Pullover      |
-| Le costume        | Der Anzug         |
-| La cravate        | Die Krawatte      |
-| Les gants         | Die Handschuhe    |
-| L'écharpe         | Der Schal         |
-| Les lunettes      | Die Brille        |
+| Französisch       | Deutsch           | Französisch       | Deutsch           |
+|-------------------|-------------------|-------------------|-------------------|
+| La chemise        | Das Hemd          | Le chapeau        | Der Hut           |
+| Le pantalon       | Die Hose          | Le t-shirt        | Das T-Shirt       |
+| La jupe           | Der Rock          | Le pull           | Der Pullover      |
+| La robe           | Das Kleid         | Le costume        | Der Anzug         |
+| Les chaussures    | Die Schuhe        | La cravate        | Die Krawatte      |
+| Les chaussettes   | Die Socken        | Les gants         | Die Handschuhe    |
+| Le manteau        | Der Mantel        | L'écharpe         | Der Schal         |
+| La veste          | Die Jacke         | Les lunettes      | Die Brille        |
+
 
 ## Nahrungsmittel
 
-| Französisch       | Deutsch           |
-|-------------------|-------------------|
-| Le pain           | Das Brot          |
-| Le fromage        | Der Käse          |
-| Le lait           | Die Milch         |
-| Le beurre         | Die Butter        |
-| La viande         | Das Fleisch       |
-| Le poulet         | Das Hähnchen      |
-| Le bœuf           | Das Rindfleisch   |
-| Le porc           | Das Schweinefleisch|
-| Le poisson        | Der Fisch         |
-| Les fruits        | Das Obst          |
-| La pomme          | Der Apfel         |
-| La banane         | Die Banane        |
-| L'orange          | Die Orange        |
-| Les légumes       | Das Gemüse        |
-| La carotte        | Die Karotte       |
-| La tomate         | Die Tomate        |
-| La salade         | Der Salat         |
-| Les pâtes         | Die Nudeln        |
-| Le riz            | Der Reis          |
-| Le sucre          | Der Zucker        |
-| Le sel            | Das Salz          |
-| Le poivre         | Der Pfeffer       |
+| Französisch       | Deutsch            | Französisch       | Deutsch           |
+|-------------------|--------------------|-------------------|-------------------|
+| Le pain           | Das Brot           | Les fruits        | Das Obst          |
+| Le fromage        | Der Käse           | La pomme          | Der Apfel         |
+| Le lait           | Die Milch          | La banane         | Die Banane        |
+| Le beurre         | Die Butter         | L'orange          | Die Orange        |
+| La viande         | Das Fleisch        | Les légumes       | Das Gemüse        |
+| Le poulet         | Das Hähnchen       | La carotte        | Die Karotte       |
+| Le bœuf           | Das Rindfleisch    | La tomate         | Die Tomate        |
+| Le porc           | Das Schweinefleisch| La salade         | Der Salat        |
+| Le poisson        | Der Fisch          | Les pâtes         | Die Nudeln        |
+| Les fruits        | Das Obst           | Le riz            | Der Reis          |
+| La pomme          | Der Apfel          | Le sucre          | Der Zucker        |
+| La banane         | Die Banane         | Le sel            | Das Salz          |
+| L'orange          | Die Orange         | Le poivre         | Der Pfeffer       |
+
 
 ## Cuisine (Küche)
 
-| Französisch        | Deutsch            |
-|--------------------|--------------------|
-| La cuisine         | Die Küche          |
-| Le four            | Der Ofen           |
-| Le réfrigérateur   | Der Kühlschrank    |
-| Le congélateur     | Der Gefrierschrank |
-| La cuisinière      | Der Herd           |
-| L'évier            | Das Spülbecken     |
-| Le lave-vaisselle  | Der Geschirrspüler |
-| La casserole       | Der Kochtopf       |
-| La poêle           | Die Pfanne         |
+| Französisch        | Deutsch            | Französisch        | Deutsch            |
+|--------------------|--------------------|--------------------|--------------------|
+| La cuisine         | Die Küche          | La fourchette      | Die Gabel          |
+| Le four            | Der Ofen           | La cuillère        | Der Löffel         |
+| Le réfrigérateur   | Der Kühlschrank    | L'assiette         | Der Teller         |
+| Le congélateur     | Der Gefrierschrank | Le verre           | Das Glas           |
+| La cuisinière      | Der Herd           | La tasse           | Die Tasse          |
+| L'évier            | Das Spülbecken     | Le bol             | Die Schüssel       |
+| Le lave-vaisselle  | Der Geschirrspüler | Le micro-ondes     | Die Mikrowelle     |
+| La casserole       | Der Kochtopf       | La bouilloire      | Der Wasserkocher   |
+| La poêle           | Die Pfanne         | Le grille-pain     | Der Toaster        |
 | Le couteau         | Das Messer         |
-| La fourchette      | Die Gabel          |
-| La cuillère        | Der Löffel         |
-| L'assiette         | Der Teller         |
-| Le verre           | Das Glas           |
-| La tasse           | Die Tasse          |
-| Le bol             | Die Schüssel       |
-| Le micro-ondes     | Die Mikrowelle     |
-| La bouilloire      | Der Wasserkocher   |
-| Le grille-pain     | Der Toaster        |
 
 ## Körperteile
 
-| Französisch     | Deutsch          |
-|-----------------|------------------|
-| La tête         | Der Kopf         |
-| Le bras         | Der Arm          |
-| La main         | Die Hand         |
-| La jambe        | Das Bein         |
-| Le pied         | Der Fuß          |
-| Le dos          | Der Rücken       |
+| Französisch     | Deutsch          | Französisch     | Deutsch          |
+|-----------------|------------------|-----------------|------------------|
+| La tête         | Der Kopf         | Le cœur         | Das Herz         |
+| Le bras         | Der Arm          | Les yeux        | Die Augen        |
+| La main         | Die Hand         | Les oreilles    | Die Ohren        |
+| La jambe        | Das Bein         | La bouche       | Der Mund         |
+| Le pied         | Der Fuß          | Le nez          | Die Nase         |
+| Le dos          | Der Rücken       | Les cheveux     | Die Haare        |
 | Le cœur         | Das Herz         |
-| Les yeux        | Die Augen        |
-| Les oreilles    | Die Ohren        |
-| La bouche       | Der Mund         |
-| Le nez          | Die Nase         |
-| Les cheveux     | Die Haare        |
 
 ## Zeitangaben
 
-| Französisch      | Deutsch        |
-|------------------|----------------|
-| Aujourd'hui      | Heute          |
-| Demain           | Morgen         |
-| Hier             | Gestern        |
-| Maintenant       | Jetzt          |
-| Tôt              | Früh           |
-| Tard             | Spät           |
-| Le matin         | Der Morgen     |
-| L'après-midi     | Der Nachmittag |
-| Le soir          | Der Abend      |
-| La nuit          | Die Nacht      |
-| Toujours         | Immer          |
-| Parfois          | Manchmal       |
-| Jamais           | Nie            |
+| Französisch      | Deutsch        | Französisch      | Deutsch        |
+|------------------|----------------|------------------|----------------|
+| Aujourd'hui      | Heute          | Le matin         | Der Morgen     |
+| Demain           | Morgen         | L'après-midi     | Der Nachmittag |
+| Hier             | Gestern        | Le soir          | Der Abend      |
+| Maintenant       | Jetzt          | La nuit          | Die Nacht      |
+| Tôt              | Früh           | Toujours         | Immer          |
+| Tard             | Spät           | Parfois          | Manchmal       |
+| Jamais           | Nie            | Pendant          | Während        |
+| Souvent          | Oft            | Avant            | Vor            |
+| Après            | Nach           | Plus tard        | Später         |
+| Bientôt          | Bald           | Depuis           | Seit           |
+| Dès que          | Sobald         | Jusque           | Bis            |
+| En retard        | Zu spät        | À temps          | Rechtzeitig    |
+| Déjà             | Schon          | Encore           | Noch           |
+| Tout de suite    | Sofort         | Longtemps        | Lange          |
+| Il y a           | Vor (zeitlich) | Prochainement    | Demnächst      |
+| Récemment        | Kürzlich       | Rarement         | Selten         |
+
+
+
+## Uhrzeiten
+
+| Ausdruck               | Bedeutung       |
+| ---------------------- | --------------- |
+| **Il est une heure**   | Es ist ein Uhr  |
+| **Il est deux heures** | Es ist zwei Uhr |
+| **et quart**           | Viertel nach    |
+| **et demie**           | halb            |
+| **moins le quart**     | Viertel vor     |
+| **midi**               | Mittag          |
+| **minuit**             | Mitternacht     |
+
+
+- **Formeller Ton**
+  - Beispiel: *Il est huit heures trente.* (Es ist 8:30 Uhr)
+  - Beispiel: *Il est quinze heures.* (Es ist 15:00 Uhr)
+  - Beispiel: *Il est quinze heures quinze.* (Es ist 15:15 Uhr)
+  - Beispiel: *Il est quinze heures quarante-cinq.* (Es ist 15:45 Uhr)
+
+- **Informeller Ton**
+  - Beispiel: *Il est huit heures et demie.* (Es ist halb neun)
+  - Beispiel: *Il est trois heures de l'après-midi.* (Es ist drei Uhr nachmittags)
+  - Beispiel: *Il est trois heures et quart.* (Es ist Viertel nach drei)
+  - Beispiel: *Il est quatre heures moins le quart.* (Es ist Viertel vor vier)
+---
 
 ## Orte
 
-| Französisch     | Deutsch         |
-|-----------------|-----------------|
-| La maison       | Das Haus        |
-| L'école         | Die Schule      |
-| Le travail      | Die Arbeit      |
-| Le magasin      | Das Geschäft    |
-| Le restaurant   | Das Restaurant  |
-| L'hôtel         | Das Hotel       |
-| La gare         | Der Bahnhof     |
-| L'aéroport      | Der Flughafen   |
-| La banque       | Die Bank        |
-| L'hôpital       | Das Krankenhaus |
-| Le parc         | Der Park        |
-| La bibliothèque | Die Bibliothek  |
+| Französisch      | Deutsch          | Französisch      | Deutsch          |
+|------------------|------------------|------------------|------------------|
+| La maison        | Das Haus         | La gare          | Der Bahnhof      |
+| L'école          | Die Schule       | L'aéroport       | Der Flughafen    |
+| Le travail       | Die Arbeit       | La banque        | Die Bank         |
+| Le magasin       | Das Geschäft     | L'hôpital        | Das Krankenhaus  |
+| Le restaurant    | Das Restaurant   | Le parc          | Der Park         |
+| L'hôtel          | Das Hotel        | La bibliothèque  | Die Bibliothek   |
+| La plage         | Der Strand       | Le supermarché   | Der Supermarkt   |
+| La poste         | Die Post         | Le stade         | Das Stadion      |
+| La montagne      | Der Berg         | La rivière       | Der Fluss        |
+| Le cinéma        | Das Kino         | La pharmacie     | Die Apotheke     |
+| Le musée         | Das Museum       | La station       | Die Station      |
+| La rue           | Die Straße       | Le jardin        | Der Garten       |
+| Le marché        | Der Markt        | La ferme         | Der Bauernhof    |
+| Le château       | Das Schloss      | Le centre-ville  | Die Innenstadt   |
+| L'université     | Die Universität  | Le théâtre       | Das Theater      |
+| Le zoo           | Der Zoo          | L'usine          | Die Fabrik       |
+| Le bureau        | Das Büro         |
 
 ## Wetter
 
-| Französisch     | Deutsch        |
-|-----------------|----------------|
-| Il fait chaud   | Es ist warm    |
-| Il fait froid   | Es ist kalt    |
-| Il pleut        | Es regnet      |
-| Il neige        | Es schneit     |
-| Le soleil       | Die Sonne      |
-| Le vent         | Der Wind       |
-| Le nuage        | Die Wolke      |
-| L'orage         | Das Gewitter   |
+
+| Französisch       | Deutsch          | Französisch       | Deutsch          |
+|-------------------|------------------|-------------------|------------------|
+| Il fait chaud     | Es ist warm      | Il fait du vent   | Es ist windig    |
+| Il fait froid     | Es ist kalt      | Il fait humide    | Es ist feucht    |
+| Il pleut          | Es regnet        | La tempête        | Der Sturm        |
+| Il neige          | Es schneit       | L'éclair          | Der Blitz        |
+| Le soleil         | Die Sonne        | L'arc-en-ciel     | Der Regenbogen   |
+| Le vent           | Der Wind         | La brume          | Der Nebel        |
+| Le nuage          | Die Wolke        | Le brouillard     | Der dichte Nebel |
+| L'orage           | Das Gewitter     | La grêle          | Der Hagel        |
+| Il fait beau      | Es ist schön     | Il fait frais     | Es ist kühl      |
+| Il fait mauvais   | Es ist schlecht  | La canicule       | Die Hitzewelle   |
+| Le verglas        | Das Glatteis     | La sécheresse     | Die Trockenheit  |
+| La pluie fine     | Der Nieselregen  | Les averses       | Die Regenschauer |
+| La neige fondue   | Der Schneeregen  | Le gel            | Der Frost        |
+| L'humidité        | Die Feuchtigkeit | Le tonnerre       | Der Donner       |
+
 
 ## Präpositionen
 
@@ -716,19 +734,21 @@
 ---
 
 
-### Verhältnissangaben (Vergleiche)
+### Verhältnissangaben und Vergleiche
 
-| Französisch                 | Deutsch                      |
-|-----------------------------|------------------------------|
-| Plus ... que                | Mehr ... als                 |
-| Moins ... que               | Weniger ... als              |
-| Aussi ... que               | So ... wie                   |
-| Le plus                     | Der/die/das meiste           |
-| Le moins                    | Der/die/das wenigste         |
-| Mieux                       | Besser                       |
-| Pire                        | Schlechter                   |
-| Meilleur(e)                 | Besser (Adjektiv)            |
-| Moindre                     | Geringer                     |
+| Französisch                 | Deutsch                      | Französisch                 | Deutsch                      |
+|-----------------------------|------------------------------|-----------------------------|------------------------------|
+| Plus ... que                | Mehr ... als                 | Mieux                       | Besser                       |
+| Moins ... que               | Weniger ... als              | Pire                        | Schlechter                   |
+| Aussi ... que               | So ... wie                   | Meilleur(e)                 | Besser (Adjektiv)            |
+| Le plus                     | Der/die/das meiste           | Moindre                     | Geringer                     |
+| Le moins                    | Der/die/das wenigste         | Le pire                     | Der/die/das schlechteste     |
+| Autant ... que              | Ebenso viel ... wie          | Inférieur(e)                | Unterlegen                   |
+| Davantage                   | Mehr                         | Supérieur(e)                | Überlegen                    |
+| Tant ... que                | So viel ... wie              | Le meilleur/la meilleure    | Der/die/das Beste            |
+| Moins de                    | Weniger von                  | Le pire/la pire             | Der/die/das Schlimmste       |
+| Plus de                     | Mehr von                     | Le moindre/la moindre       | Der/die/das Geringste        |
+
 
 #### Beispiele
 
