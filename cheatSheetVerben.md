@@ -6,7 +6,7 @@ Im Französischen werden Verben in drei Hauptgruppen eingeteilt, basierend auf i
 2. **Verben auf -ir** (z. B. *finir* - beenden, *dormir* - schlafen)
 3. **Verben auf -re** (z. B. *vendre* - verkaufen)
 
-Jede dieser Gruppen hat eigene Konjugationsmuster im Präsens. Hier sind Beispiele für jede Gruppe:
+Jede dieser Gruppen hat eigene Konjugationsmuster im Präsens.
 
 ---
 
@@ -140,42 +140,6 @@ Verben auf **-re** gehören zur dritten Gruppe und haben ihre eigenen Konjugatio
 
 ---
 
-## Zusammenfassung der Konjugationsendungen im Präsens
-
-### Verben auf **-er**
-
-| Person         | Endung | Beispiel             |
-|----------------|--------|----------------------|
-| **Je**         | -e     | Je parle             |
-| **Tu**         | -es    | Tu parles            |
-| **Il/Elle/On** | -e     | Il/Elle/On parle     |
-| **Nous**       | -ons   | Nous parlons         |
-| **Vous**       | -ez    | Vous parlez          |
-| **Ils/Elles**  | -ent   | Ils/Elles parlent    |
-
-### Verben auf **-ir** (regelmäßig)
-
-| Person         | Endung   | Beispiel               |
-|----------------|----------|------------------------|
-| **Je**         | -is      | Je finis               |
-| **Tu**         | -is      | Tu finis               |
-| **Il/Elle/On** | -it      | Il/Elle/On finit       |
-| **Nous**       | -issons  | Nous finissons         |
-| **Vous**       | -issez   | Vous finissez          |
-| **Ils/Elles**  | -issent  | Ils/Elles finissent    |
-
-### Verben auf **-re**
-
-| Person         | Endung    | Beispiel               |
-|----------------|-----------|------------------------|
-| **Je**         | -s        | J'attends              |
-| **Tu**         | -s        | Tu attends             |
-| **Il/Elle/On** | (nichts)  | Il/Elle/On attend      |
-| **Nous**       | -ons      | Nous attendons         |
-| **Vous**       | -ez       | Vous attendez          |
-| **Ils/Elles**  | -ent      | Ils/Elles attendent    |
-
----
 
 ## Wichtige unregelmäßige Verben
 ---
