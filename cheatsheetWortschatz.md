@@ -83,13 +83,6 @@
   - Beispiel: *Quelle heure est-il?* (Wie spät ist es?)
   - Antwort: *Il est trois heures.* (Es ist drei Uhr.)
 
-| Fragewort    | Bedeutung          | Beispiel                       |
-|--------------|--------------------|--------------------------------|
-| **qui**      | Wer?               | *Qui est là?* (Wer ist da?)   |
-| **quoi**     | Was?               | *Tu fais quoi?* (Was machst du?) |
-| **où**       | Wo?                | *Où habites-tu?* (Wo wohnst du?) |
-| **quand**    | Wann?              | *Quand viens-tu?* (Wann kommst du?) |
-| **pourquoi** | Warum?             | *Pourquoi tu pleures?* (Warum weinst du?)
 
 ### Ohne Fragewort
 
@@ -145,111 +138,7 @@
 |  **Vendre**   | Verkaufen        | vends         | vends         | vend             | vendons        | vendez         | vendent         |
 |  **Vivre**    | Leben            | vis           | vis           | vit              | vivons         | vivez          | vivent          |
 
-### Hinweise zur Konjugation
 
-- **Regelmäßige Verben auf -er** (z.B. **parler**, **aimer**):
-  - Endungen im Präsens: **-e**, **-es**, **-e**, **-ons**, **-ez**, **-ent**.
-  - Beispiel: **parler** (sprechen)
-    - Je parle
-    - Tu parles
-    - Il/Elle parle
-    - Nous parlons
-    - Vous parlez
-    - Ils/Elles parlent
-
-- **Regelmäßige Verben auf -ir** (z.B. **finir**):
-  - Endungen im Präsens: **-is**, **-is**, **-it**, **-issons**, **-issez**, **-issent**.
-  - Beispiel: **finir** (beenden)
-    - Je finis
-    - Tu finis
-    - Il/Elle finit
-    - Nous finissons
-    - Vous finissez
-    - Ils/Elles finissent
-
-- **Regelmäßige Verben auf -re** (z.B. **attendre**):
-  - Endungen im Präsens: **-s**, **-s**, **-**, **-ons**, **-ez**, **-ent**.
-  - Beispiel: **attendre** (warten)
-    - Je attends
-    - Tu attends
-    - Il/Elle attend
-    - Nous attendons
-    - Vous attendez
-    - Ils/Elles attendent
-
-### Beispiele mit Sätzen
-
-- **Je suis étudiant.**  
-  *(Ich bin Student.)*
-
-- **Nous avons un chien.**  
-  *(Wir haben einen Hund.)*
-
-- **Il va à l'école.**  
-  *(Er geht zur Schule.)*
-
-- **Vous faites du sport ?**  
-  *(Macht ihr Sport?)*
-
-- **Elles peuvent venir demain.**  
-  *(Sie können morgen kommen.)*
-
-- **Tu veux un café ?**  
-  *(Möchtest du einen Kaffee?)*
-
-- **Ils savent la réponse.**  
-  *(Sie wissen die Antwort.)*
-
-- **Je dis la vérité.**  
-  *(Ich sage die Wahrheit.)*
-
-- **Nous venons de France.**  
-  *(Wir kommen aus Frankreich.)*
-
-- **Il prend le bus.**  
-  *(Er nimmt den Bus.)*
-
-- **Elle aime la musique.**  
-  *(Sie mag Musik.)*
-
-- **Nous parlons français.**  
-  *(Wir sprechen Französisch.)*
-
-- **Je finis mes devoirs.**  
-  *(Ich beende meine Hausaufgaben.)*
-
-- **Ils attendent le train.**  
-  *(Sie warten auf den Zug.)*
-
-- **Tu dors bien ?**  
-  *(Schläfst du gut?)*
-
-- **Nous écrivons une lettre.**  
-  *(Wir schreiben einen Brief.)*
-
-- **Vous lisez un livre.**  
-  *(Ihr lest ein Buch.)*
-
-- **Je mets la table.**  
-  *(Ich decke den Tisch.)*
-
-- **Il ouvre la porte.**  
-  *(Er öffnet die Tür.)*
-
-- **Nous partons en vacances.**  
-  *(Wir fahren in den Urlaub.)*
-
-- **Comment tu t'appelles ?**  
-  *(Wie heißt du?)*
-
-- **Je me lève à sept heures.**  
-  *(Ich stehe um sieben Uhr auf.)*
-
-- **Elle connaît la ville.**  
-  *(Sie kennt die Stadt.)*
-
-- **Je comprends le français.**  
-  *(Ich verstehe Französisch.)*
 
 ## Familie
 
