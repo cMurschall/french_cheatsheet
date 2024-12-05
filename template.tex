@@ -1,0 +1,57 @@
+\documentclass[10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{calc}
+\usepackage{float} % Required to control table placement
+\usepackage{titlesec}
+\usepackage{etoolbox} % For modifying environments like longtable
+\usepackage{caption} % To control caption spacing
+
+% Redefine sections and subsections without numbers
+\titleformat{\section}[block]{\normalfont\Large\bfseries}{}{0pt}{}    
+\titleformat{\subsection}[block]{\normalfont\large\bfseries}{}{0pt}{}
+
+% Ensure sections still appear in the Table of Contents
+\setcounter{secnumdepth}{0}
+
+% Adjust list spacing
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Set overall document layout
+\setstretch{0.9}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Table adjustments
+\renewcommand{\arraystretch}{1.2} % Adjust row height
+\setlength{\tabcolsep}{5pt}      % Adjust column spacing
+
+% Ensure tables do not break across pages
+\AtBeginEnvironment{table}{\centering\captionsetup{justification=centering, singlelinecheck=false}}
+\floatplacement{table}{H} % Force tables to stay where defined
+
+% Ensure longtable rows don't split
+\AtBeginEnvironment{longtable}{\setlength\LTpre{0pt}\setlength\LTpost{0pt}}
+
+% Automatically scale wide tables to fit page
+\usepackage{graphicx}
+\AtBeginEnvironment{table}{
+  \let\oldtabular\tabular
+  \renewcommand{\tabular}[1]{\resizebox{\textwidth}{!}{\oldtabular{##1}}}
+}
+
+% Reduce spacing below captions
+\captionsetup[table]{skip=5pt}
+
+$if(title)$\title{$title$}$endif$
+$if(author)$\author{$author$}$endif$
+$if(date)$\date{$date$}$endif$
+\begin{document}
+$if(title)$\maketitle$endif$
+$body$
+\end{document}

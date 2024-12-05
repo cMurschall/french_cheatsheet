@@ -1,0 +1,10 @@
+# Ignore all .tex and .pdf files
+*.tex
+*.pdf
+
+# Exclude template.tex from being ignored
+!template.tex
+
+
+
+

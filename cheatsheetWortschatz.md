@@ -278,6 +278,9 @@
   - Beispiel: *Il est trois heures de l'après-midi.* (Es ist drei Uhr nachmittags)
   - Beispiel: *Il est trois heures et quart.* (Es ist Viertel nach drei)
   - Beispiel: *Il est quatre heures moins le quart.* (Es ist Viertel vor vier)
+
+
+
 ---
 
 ## Orte
