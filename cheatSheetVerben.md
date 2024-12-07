@@ -142,6 +142,7 @@ Verben auf **-re** gehören zur dritten Gruppe und haben ihre eigenen Konjugatio
 
 
 ## Wichtige unregelmäßige Verben
+
 ---
 
 ###  **Être** (sein)
@@ -776,3 +777,161 @@ Verben auf **-re** gehören zur dritten Gruppe und haben ihre eigenen Konjugatio
 \*\* *Verben wie **dormir** haben bei der Konjugation Besonderheiten.*
 
  -->
+
+
+## **Imperativ (L'impératif)**
+
+- **Anwendung:**
+  - Wird verwendet, um Befehle, Aufforderungen, Ratschläge oder Bitten auszudrücken.
+  - Im Französischen existiert der Imperativ nur in der 2. Person Singular (**tu**), 1. Person Plural (**nous**) und 2. Person Plural (**vous**).
+
+- **Bildung:**
+  - Die Imperativform entspricht der Konjugation im **Présent**, jedoch ohne das Subjekt.
+  - Für **-er**-Verben entfällt bei der **2. Person Singular (tu)** das **-s**.
+
+
+| Person  | **-er** *(parler)* | **-ir** *(finir)* | **-re** *(attendre)* | **unregelmäßig** *(avoir, être, savoir)* |
+|---------|---------------------|-------------------|-----------------------|-------------------------------------------|
+| (tu)    | Parle !             | Finis !           | Attends !             | Aie ! / Sois ! / Sache !                  |
+| (nous)  | Parlons !           | Finissons !       | Attendons !           | Ayons ! / Soyons ! / Sachons !            |
+| (vous)  | Parlez !            | Finissez !        | Attendez !            | Ayez ! / Soyez ! / Sachez !               |
+
+
+- **Unregelmäßige Verben:**
+  Einige Verben haben im Imperativ besondere Formen, insbesondere **avoir**, **être**, **savoir**, **vouloir**:
+  - **Avoir**: Aie ! Ayons ! Ayez !
+  - **Être**: Sois ! Soyons ! Soyez !
+  - **Savoir**: Sache ! Sachons ! Sachez !
+  - **Vouloir**: Veuillez (höfliche Aufforderung, meist mit "bitte").
+
+
+
+**Beispiele:**
+
+- **Parle plus lentement !** *(Sprich langsamer!)*
+- **Finissons ce projet ensemble.** *(Beenden wir dieses Projekt gemeinsam.)*
+- **Attendez un moment, s'il vous plaît.** *(Warten Sie einen Moment, bitte.)*
+- **Sois prudent !** *(Sei vorsichtig!)*
+- **Ayez confiance !** *(Habt Vertrauen!)*
+- **Sache que je suis là pour toi.** *(Wisse, dass ich für dich da bin.)*
+- **Veuillez patienter quelques instants.** *(Bitte warten Sie einen Moment.)*
+- **Voulez-vous entrer, s'il vous plaît ?** *(Würden Sie bitte eintreten?)*
+
+
+
+----
+
+
+
+## **Reflexive Verben im Französischen**
+
+### **Definition:**
+Reflexive Verben sind Verben, bei denen das Subjekt die Handlung an sich selbst ausführt. Sie werden mit Reflexivpronomen konjugiert und häufig für Handlungen des Alltags, Körperpflege oder emotionale Zustände verwendet.
+
+
+### **Reflexivpronomen:**
+| Person    | Reflexivpronomen | Beispiel (se laver - sich waschen) |
+|-----------|-------------------|------------------------------------|
+| je        | me (m')           | **je me lave** *(ich wasche mich)* |
+| tu        | te (t')           | **tu te laves** *(du wäschst dich)* |
+| il/elle/on| se (s')           | **il/elle/on se lave** *(er/sie/man wäscht sich)* |
+| nous      | nous              | **nous nous lavons** *(wir waschen uns)* |
+| vous      | vous              | **vous vous lavez** *(ihr/Sie wascht sich)* |
+| ils/elles | se (s')           | **ils/elles se lavent** *(sie waschen sich)* |
+
+
+
+### **Konjugation im Présent:**
+Reflexive Verben folgen der normalen Konjugation ihres Grundverbs. Das Reflexivpronomen wird jedoch vor das Verb gestellt.
+
+#### Beispiel mit **se lever (aufstehen):**
+| Person    | Konjugation              |
+|-----------|--------------------------|
+| je        | je me lève               |
+| tu        | tu te lèves              |
+| il/elle/on| il/elle/on se lève       |
+| nous      | nous nous levons         |
+| vous      | vous vous levez          |
+| ils/elles | ils/elles se lèvent      |
+
+
+### **Wichtige Zeitformen:**
+
+#### **Passé composé:**
+- Reflexive Verben werden immer mit **être** gebildet.
+- Das Partizip Perfekt stimmt mit dem Subjekt überein (nur, wenn das Reflexivpronomen direktes Objekt ist).
+
+**Beispiel mit se laver (sich waschen):**
+- **Je me suis lavé(e).** *(Ich habe mich gewaschen.)*
+- **Nous nous sommes lavé(e)s.** *(Wir haben uns gewaschen.)*
+
+**Verneinung:**
+- **Je ne me suis pas lavé(e).** *(Ich habe mich nicht gewaschen.)*
+
+
+#### **Futur proche:**
+Das Reflexivpronomen steht vor dem Infinitiv.
+
+**Beispiel:**
+- **Je vais me laver.** *(Ich werde mich waschen.)*
+- **Nous allons nous reposer.** *(Wir werden uns ausruhen.)*
+
+
+
+#### **Imperativ:**
+- Im Imperativ steht das Reflexivpronomen **nach dem Verb**.
+- Bei **tu**-Form von **-er**-Verben entfällt das **-s**.
+- Reflexivpronomen ändern sich:
+  - **me → moi**: **Lave-toi !** *(Wasch dich!)*
+  - **te → toi**: **Repose-toi !** *(Ruh dich aus!)*
+
+**Verneinung:**
+- Das Reflexivpronomen bleibt vor dem Verb: **Ne te lève pas !** *(Steh nicht auf!)*
+
+
+
+### **Verneinung im Présent:**
+- Die Verneinung umfasst Reflexivpronomen und Verb.
+
+**Beispiel:**
+- **Je ne me lave pas.** *(Ich wasche mich nicht.)*
+- **Nous ne nous levons pas.** *(Wir stehen nicht auf.)*
+
+
+### **Typische reflexive Verben:**
+
+#### **Tägliche Routinen:**
+- **se laver** *(sich waschen)*
+- **se lever** *(aufstehen)*
+- **se coucher** *(sich hinlegen, schlafen gehen)*
+- **se brosser les dents** *(sich die Zähne putzen)*
+
+#### **Emotionale Zustände:**
+- **s’énerver** *(sich aufregen)*
+- **se réjouir** *(sich freuen)*
+- **se fâcher** *(sich ärgern)*
+
+#### **Zwischenmenschliche Beziehungen:**
+- **se rencontrer** *(sich treffen)*
+- **se disputer** *(sich streiten)*
+
+
+
+### **Wichtige Hinweise:**
+1. Nicht alle reflexiven Verben sind reflexiv im Deutschen:
+   - **s’amuser** *(Spaß haben)*
+   - **se souvenir de** *(sich erinnern an)*
+
+2. Einige Verben können sowohl reflexiv als auch nicht-reflexiv sein:
+   - **laver** *(waschen)* vs. **se laver** *(sich waschen)*
+
+3. Im Passé composé wird bei reflexiven Verben immer **être** verwendet, aber das Partizip Perfekt stimmt nur überein, wenn das Reflexivpronomen direktes Objekt ist.
+
+
+
+
+
+**Beispiele für die Praxis:**
+- **Elle se prépare pour la fête.** *(Sie bereitet sich für die Feier vor.)*
+- **Nous nous sommes promenés dans le parc.** *(Wir sind im Park spazieren gegangen.)*
+- **Ne te fâche pas !** *(Ärgere dich nicht!)*
